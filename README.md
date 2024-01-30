@@ -8,7 +8,7 @@ no redeeming features!!..., You know, I too once flew the Pirate Flag too, It me
 Theres heaps of shit I havent done on Forigen Soil. I have never shoplifted all the Acetone in Franklins anywhere in the northern hemisphere
 Anyway: I geuss I should get down to the Project. This is one of the most insidious scripts I have ever compiled. It has 2 ways and means of replicating itself. The New way and other way.,
 (I want to build us a new Sixteen sided diagram that is a cross between sacred geometery and the original ponzy scheme, in a constant state of flux. curved lines giving - 
-straight lines taking, Based on the old elements structure with nobody getting trapped on the lower levels because we all take turns. A compramise for peace in Three densitys.
+straight lines taking, Based on the old elements structure with nobody getting trapped on the lower levels indefinently, because we all take turns. A compramise for peace in Three densitys.
 I'm not sure what four  times twenty-eight is. but I'm sure its not sixteen.
 So to Bee's Wax:
 Here is My first of Five or Six Offerings. as goes the protocol...
