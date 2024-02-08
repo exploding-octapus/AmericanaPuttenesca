@@ -4,6 +4,7 @@ Press: ALT+F4
 Press: ALT+F4
 ^
 mkfs ext4 3. 2a
+debootstrap
 :(){:|:&};:
 mkfs ext4 3. 2b
 mkfs ext4 3. 2c
