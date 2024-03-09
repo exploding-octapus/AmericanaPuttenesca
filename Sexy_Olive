@@ -4,15 +4,18 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -43,15 +46,18 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -82,15 +88,18 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -121,15 +130,18 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -160,15 +172,18 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -199,15 +214,18 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -238,15 +256,18 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -277,15 +298,18 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -309,21 +333,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -347,21 +375,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -385,21 +417,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -423,21 +459,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -461,21 +501,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -499,21 +543,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -537,21 +585,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -575,21 +627,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -613,21 +669,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -651,21 +711,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -689,21 +753,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -727,21 +795,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -765,21 +837,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -803,21 +879,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -841,21 +921,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -879,21 +963,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -917,21 +1005,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -955,21 +1047,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -993,21 +1089,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1031,21 +1131,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1069,21 +1173,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1107,21 +1215,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1145,21 +1257,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1183,21 +1299,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1221,21 +1341,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1259,21 +1383,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1297,21 +1425,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1335,21 +1467,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1373,21 +1509,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1411,21 +1551,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1449,21 +1593,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1487,21 +1635,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1525,21 +1677,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1563,21 +1719,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1601,21 +1761,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1639,21 +1803,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1677,21 +1845,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1715,21 +1887,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1753,21 +1929,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1791,21 +1971,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1829,21 +2013,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1867,21 +2055,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1905,21 +2097,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1943,21 +2139,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -1981,21 +2181,25 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
@@ -2019,21 +2223,2797 @@ git clone https://github.com/HBMS-0em/off
 <down>
 <inside out>
 <off>
-umountPress: ALT+F4
+umount
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4
+<off>
 debootstrap
 sudo get upgrade
 :(){:|:&};:
 <down>
+<off>
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda3. 2b
 BlinkLED: ORANGE
 Hey Now ¬ Hit This!
 git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ooni/probe
+git clone https://github.com/hrtywhy/Malware-Library
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/nomi-sec/PoC-in-GitHub
+mkfs ext4 /dev/sda2
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/sophos/SOREL-20M
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+git clone https://github.com/HBMS-0em/off
+<off>
+<down>
+<down>
+<inside out>
+<off>
+umount
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+debootstrap
+sudo get upgrade
+:(){:|:&};:
+<down>
+<off>
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+BlinkLED: ORANGE
+Hey Now ¬ Hit This!
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
 git clone https://github.com/ooni/probe
 git clone https://github.com/hrtywhy/Malware-Library
 mkfs ext4 /dev/sda0
