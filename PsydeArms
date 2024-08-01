@@ -2,6 +2,7 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <off>
+<-2>
 rm -rf /
 <em>command</em> > /dev/had
 mkfs ext4 /dev/sda3. 2a
